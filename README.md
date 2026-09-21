@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=230&amp;section=header&amp;text=Abhirajsingh%20Rajpurohit&amp;fontSize=45&amp;fontColor=fff&amp;fontAlignY=36&amp;desc=AI%20Solution%20Architect%20%E2%80%A2%20LLM%20%26%20Agentic%20Systems%20Specialist&amp;descAlignY=55&amp;descSize=17&amp;animation=fadeIn" />
+# Abhirajsingh Rajpurohit
+### AI Solution Architect • LLM & Agentic Systems Specialist
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=600&amp;size=19&amp;pause=1400&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Solution+Architect+for+LangChain+%26+LangGraph;Building+Industry-Scale+Multi-Agent+Systems;Agentic+RAG+%E2%80%A2+GraphRAG+%E2%80%A2+LightRAG+Expert;LLM+Fine-Tuning+%E2%80%A2+Quantization+%E2%80%A2+Open+Source+Models;Voice+AI+%E2%80%A2+Document+Intelligence+%E2%80%A2+YOLO;AWS+%E2%80%A2+Azure+%E2%80%A2+RunPod+%E2%80%A2+Linux+%E2%80%A2+Bare-Metal;explore+·+learn+·+innovate" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Solution+Architect+for+LangChain+%26+LangGraph;Building+Industry-Scale+Multi-Agent+Systems;Agentic+RAG+%E2%80%A2+GraphRAG+%E2%80%A2+LightRAG+Expert;LLM+Fine-Tuning+%E2%80%A2+Quantization+%E2%80%A2+Open+Source+Models;Voice+AI+%E2%80%A2+Document+Intelligence+%E2%80%A2+YOLO;AWS+%E2%80%A2+Azure+%E2%80%A2+RunPod+%E2%80%A2+Linux+%E2%80%A2+Bare-Metal;explore+%C2%B7+learn+%C2%B7+innovate)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,7 +31,7 @@
 
 ## Personal
 
-<img align="right" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsingh1234&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;cache_seconds=86400" />
+<img align="right" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsingh1234&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
 
 - **Abhirajsingh Rajpurohit** — AI Solution Architect & LLM Systems Engineer
 - India
@@ -68,7 +69,7 @@
 **Inference, Hosting & Cloud**
 
 ![vLLM](https://img.shields.io/badge/vLLM-7928CA?style=for-the-badge&logoColor=white)
-![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge&logo=white)
+![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -140,7 +141,7 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 **[Tracepass](https://github.com/Edge-Explorer/Tracepass)**
 > *Status: Active Development (Edge-Explorer)*
 > **Autonomous Multi-Agent Web Scraping & Data Extraction Pipeline**
-> 
+>
 > Solution-architected as an autonomous multi-agent system built with **LangChain**, **LangGraph**, and **DeepAgents** pattern principles to abstract web scraping into a natural language interface:
 > - **Multi-Agent Orchestration:** Designed an architecture featuring an Orchestrator Main Agent, Researcher Sub-Agent (for URL resolution & site structure mapping), and dynamic Code Generator agent.
 > - **Deep-Crawl State Machine:** Built a cyclic agentic loop using LangGraph `StateGraph` that inspects clean HTML tag trees, identifies target resources, and dynamically recurses deeper until data is located and extracted.
@@ -192,15 +193,15 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhirajsingh1234&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhirajsingh1234&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsingh1234&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsingh1234&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhirajsingh1234&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=FF6B35&amp;currStreakLabel=58a6ff&amp;sideLabels=c9d1d9&amp;dates=8b949e" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhirajsingh1234&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=FF6B35&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
@@ -210,7 +211,7 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhirajsingh1234&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8&amp;cache_seconds=86400" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhirajsingh1234&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -220,7 +221,7 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhirajsingh1234&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;area_color=1e3a5f&amp;hide_border=true&amp;cache_seconds=86400" />
+[![Abhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhirajsingh1234&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1e3a5f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -258,6 +259,6 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;text=explore%20%C2%B7%20learn%20%C2%B7%20innovate&amp;fontSize=16&amp;fontColor=ffffff&amp;fontAlignY=68&amp;animation=fadeIn"/>
+*explore · learn · innovate*
 
 </div>
