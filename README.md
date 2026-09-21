@@ -1,7 +1,6 @@
 <div align="center">
 
-# Abhirajsingh Rajpurohit
-### AI Solution Architect • LLM & Agentic Systems Specialist
+![Header](https://raw.githubusercontent.com/abhirajsingh1234/abhirajsingh1234/main/assets/header.svg)
 
 </div>
 
@@ -95,7 +94,6 @@
 
 ## Model Knowledge & Capabilities
 
-**Capabilities Overview**
 - **Text & General LLMs:** Proficient in adapting, prompting, and optimizing both open-source and proprietary large language models for complex reasoning, autonomous agent tasks, and structural generation.
 - **Vision & Multimodal (VLM):** Capable of utilizing and implementing vision language models for image understanding, document extraction, and cross-modal reasoning.
 - **Speech & Voice:** Experienced in building robust audio processing pipelines, including high-accuracy Speech-to-Text (STT), transcription formatting, and speaker diarization.
@@ -125,9 +123,7 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 
 ---
 
-## Education & Certifications
-
-### Education
+## Education
 
 - **MCA Data Science** | Amity University Online | 2024 - 2026
 - **B.Sc. Information Technology** | Mumbai University | 2021 - 2024
@@ -142,28 +138,20 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 > *Status: Active Development (Edge-Explorer)*
 > **Autonomous Multi-Agent Web Scraping & Data Extraction Pipeline**
 >
-> Solution-architected as an autonomous multi-agent system built with **LangChain**, **LangGraph**, and **DeepAgents** pattern principles to abstract web scraping into a natural language interface:
-> - **Multi-Agent Orchestration:** Designed an architecture featuring an Orchestrator Main Agent, Researcher Sub-Agent (for URL resolution & site structure mapping), and dynamic Code Generator agent.
-> - **Deep-Crawl State Machine:** Built a cyclic agentic loop using LangGraph `StateGraph` that inspects clean HTML tag trees, identifies target resources, and dynamically recurses deeper until data is located and extracted.
-> - **Sandboxed Dynamic Scraper Execution:** Generates tailored Scrapling code on the fly and executes it inside a restricted Python sandbox environment to prevent security risks.
-> - **Stealth Anti-Bot Operations:** Utilizes Scrapling with TLS/HTTP2 header mimicry, Camoufox, and stealth Playwright integration to bypass Cloudflare and CAPTCHA detection automatically.
-> - **Automated CI/CD Quality Gates:** Integrated automated PR analysis utilizing Gemini 2.5 Flash and CodeRabbit alongside strict `pytest` and `ruff` linting workflows.
+> Solution-architected as an autonomous multi-agent system built with **LangChain**, **LangGraph**, and **DeepAgents** pattern principles:
+> - **Multi-Agent Orchestration:** Orchestrator Main Agent, Researcher Sub-Agent, and dynamic Code Generator agent.
+> - **Deep-Crawl State Machine:** Cyclic agentic loop using LangGraph `StateGraph` that recurses until data is extracted.
+> - **Sandboxed Dynamic Scraper Execution:** Generates tailored Scrapling code executed inside a restricted Python sandbox.
+> - **Stealth Anti-Bot Operations:** TLS/HTTP2 header mimicry, Camoufox, and stealth Playwright to bypass Cloudflare/CAPTCHA.
+> - **Automated CI/CD Quality Gates:** PR analysis with Gemini 2.5 Flash + CodeRabbit, `pytest` and `ruff` linting.
 
 ### Notable Work
 
 | Project | Description | Stack |
 |:---:|:---|:---:|
-| [**Custom LightRAG**](https://github.com/abhirajsingh1234/LightRAG) | Core architectural fork introducing Multi-Workspace isolation and Role-Based Access Control for strict document privacy and improved knowledge graph accuracy. | `Python` `GraphRAG` `vLLM` |
-| [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns—task planning, virtual filesystems, sub-agent delegation, and autonomous research workflows built from scratch. | `LangGraph` `LangChain` `DeepAgents` |
-| [**SmolAgents RAG Assistant**](https://github.com/abhirajsingh1234/SmolAgents_RAG_AI_Assistant) | Autonomous tool-selection agent solving multi-domain problems, giving the AI full control over retrieval strategies. | `SmolAgents` `RAG` |
-
----
-
-## Hobbies & Interests
-
-- **Storytelling Games** | Exploring immersive worlds with rich narratives
-- **Anime** | Fan of compelling stories and unique animation styles
-- **Analytical Thinking** | Deeply analyzing every angle to anticipate and thoroughly understand all possible scenarios
+| [**Custom LightRAG**](https://github.com/abhirajsingh1234/LightRAG) | Core architectural fork introducing Multi-Workspace isolation and Role-Based Access Control. | `Python` `GraphRAG` `vLLM` |
+| [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns—task planning, virtual filesystems, sub-agent delegation. | `LangGraph` `LangChain` `DeepAgents` |
+| [**SmolAgents RAG Assistant**](https://github.com/abhirajsingh1234/SmolAgents_RAG_AI_Assistant) | Autonomous tool-selection agent with full control over retrieval strategies. | `SmolAgents` `RAG` |
 
 ---
 
@@ -207,26 +195,6 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 
 ---
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhirajsingh1234&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-[![Abhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhirajsingh1234&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1e3a5f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
@@ -240,6 +208,14 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 </picture>
 
 </div>
+
+---
+
+## Hobbies & Interests
+
+- **Storytelling Games** | Exploring immersive worlds with rich narratives
+- **Anime** | Fan of compelling stories and unique animation styles
+- **Analytical Thinking** | Deeply analyzing every angle to anticipate all possible scenarios
 
 ---
 
