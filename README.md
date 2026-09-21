@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6e,100:0d1117&height=220&section=header&text=Abhirajsingh%20Rajpurohit&fontSize=45&fontColor=fff&fontAlignY=38&desc=AI%20Solution%20Architect%20%E2%80%A2%20LLM%20%26%20Agentic%20Systems%20Specialist&descAlignY=56&descSize=17&animation=fadeIn)
+<img src="assets/header.svg" width="100%" alt="Header" />
 
 </div>
 
