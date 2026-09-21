@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=🤖+Building+Industry-Scale+Multi-Agent+Systems;🔍+Agentic+RAG+%E2%80%A2+GraphRAG+%E2%80%A2+LightRAG+Expert;🧬+LLM+Fine-Tuning+%E2%80%A2+Quantization+%E2%80%A2+Open+Source+Models;🎙️+Voice+AI+%E2%80%A2+Document+Intelligence+%E2%80%A2+YOLO;☁️+AWS+%E2%80%A2+Azure+%E2%80%A2+RunPod+%E2%80%A2+Linux+%E2%80%A2+Bare-Metal;🔒+LLM+Middleware+%E2%80%A2+Flow+Control+%E2%80%A2+Beyond+Guardrails;explore+·+learn+·+innovate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Industry-Scale+Multi-Agent+Systems;Agentic+RAG+%E2%80%A2+GraphRAG+%E2%80%A2+LightRAG+Expert;LLM+Fine-Tuning+%E2%80%A2+Quantization+%E2%80%A2+Open+Source+Models;Voice+AI+%E2%80%A2+Document+Intelligence+%E2%80%A2+YOLO;AWS+%E2%80%A2+Azure+%E2%80%A2+RunPod+%E2%80%A2+Linux+%E2%80%A2+Bare-Metal;LLM+Middleware+%E2%80%A2+Flow+Control+%E2%80%A2+Beyond+Guardrails;explore+·+learn+·+innovate" alt="Typing SVG" />
 
 </div>
 
@@ -28,23 +28,23 @@
 
 ---
 
-## 👤 &nbsp;Personal
+## Personal
 
 <img align="right" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsingh1234&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
 
-- 🙋 &nbsp;**Abhirajsingh Rajpurohit** — AI/ML Engineer & LLM Architect
-- 📍 &nbsp;India
-- 🎯 &nbsp;*explore · learn · innovate*
-- 💼 &nbsp;Production-grade Agentic AI systems specialist
-- 🌱 &nbsp;Constantly exploring open-source LLMs & agent frameworks
-- 🤝 &nbsp;Open to: Agentic AI · LLM Infra · RAG Systems · AI Research
-- 💬 &nbsp;Ask me about: LangChain · LangGraph · RAG · Fine-Tuning · Deployment
+- **Abhirajsingh Rajpurohit** — AI/ML Engineer & LLM Architect
+- India
+- *explore · learn · innovate*
+- Production-grade Agentic AI systems specialist
+- Constantly exploring open-source LLMs & agent frameworks
+- Open to: Agentic AI · LLM Infra · RAG Systems · AI Research
+- Ask me about: LangChain · LangGraph · RAG · Fine-Tuning · Deployment
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ &nbsp;Tech Stack
+## Tech Stack
 
 **Core Language & Tools**
 
@@ -97,7 +97,7 @@
 
 ---
 
-## 🧠 &nbsp;Model Knowledge
+## Model Knowledge
 
 ### Open Source Models
 
@@ -125,7 +125,7 @@
 
 ---
 
-## 🔍 &nbsp;RAG & Agentic Systems
+## RAG & Agentic Systems
 
 ### RAG Architectures I Build
 
@@ -143,18 +143,18 @@
 
 <br/>
 
-### 🔦 &nbsp;LightRAG — Custom Multi-Workspace Fork
+### LightRAG — Custom Multi-Workspace Fork
 
 > Forked from **[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)** — Graph + Vector hybrid RAG (⭐ 30k+)
 
 **What I customized on top of the original:**
 
-- 👤 &nbsp;**User-wise document access control** — per-user document namespacing with permission layer so each user only sees their own documents
-- 🏢 &nbsp;**Multi-workspace environment** — isolated tenant workspaces with their own knowledge graphs, sharing no context across boundaries
-- 📄 &nbsp;**Custom ingestion pipelines** — PDF, DOCX, scanned docs, tables & images all flowing into LightRAG's insert engine
-- ⚡ &nbsp;**vLLM backend** — replaced default LLM endpoint with vLLM for faster, batched, high-throughput inference on Linux GPU servers
+- **User-wise document access control** — per-user document namespacing with permission layer so each user only sees their own documents
+- **Multi-workspace environment** — isolated tenant workspaces with their own knowledge graphs, sharing no context across boundaries
+- **Custom ingestion pipelines** — PDF, DOCX, scanned docs, tables & images all flowing into LightRAG's insert engine
+- **vLLM backend** — replaced default LLM endpoint with vLLM for faster, batched, high-throughput inference on Linux GPU servers
 
-[![My LightRAG Fork](https://img.shields.io/badge/🔦_My_Fork-LightRAG_Multi--Workspace-58a6ff?style=flat-square)](https://github.com/abhirajsingh1234/LightRAG)
+[![My LightRAG Fork](https://img.shields.io/badge/My_Fork-LightRAG_Multi--Workspace-58a6ff?style=flat-square)](https://github.com/abhirajsingh1234/LightRAG)
 [![Original](https://img.shields.io/badge/Original-HKUDS%2FLightRAG-gray?style=flat-square&logo=github)](https://github.com/HKUDS/LightRAG)
 
 <br/>
@@ -174,23 +174,23 @@
 
 ---
 
-## ☁️ &nbsp;Deployment Knowledge
+## Deployment Knowledge
 
 | Platform | Capability |
 |:---|:---|
-| ☁️ &nbsp;**AWS** | SageMaker · EC2 GPU instances · Bedrock · Lambda + API Gateway · S3 |
-| ☁️ &nbsp;**Azure** | Azure ML · Azure OpenAI Service · AKS · Container Apps · Blob Storage |
-| 🖥️ &nbsp;**RunPod** | Serverless GPU pods · Fine-tuning runs · Custom Docker templates |
-| 🐧 &nbsp;**Linux (Ubuntu/Debian)** | CUDA setup · GPU driver config · systemd services · tmux/screen sessions |
-| ⚡ &nbsp;**vLLM on Linux** | High-throughput serving — PagedAttention · continuous batching · OpenAI-compatible API |
-| 🔩 &nbsp;**Bare-Metal / On-Premise** | Private GPU clusters · CUDA optimization · multi-GPU tensor parallelism |
-| 🔐 &nbsp;**Private Cloud / Air-Gapped** | Fully offline LLM deployments for enterprise — zero data egress |
-| 📦 &nbsp;**Docker & Kubernetes** | Containerized agent microservices · K8s autoscaling for inference workloads |
-| 🌐 &nbsp;**Edge Deployment** | Quantized GGUF/AWQ models on edge hardware via llama.cpp |
+| **AWS** | SageMaker · EC2 GPU instances · Bedrock · Lambda + API Gateway · S3 |
+| **Azure** | Azure ML · Azure OpenAI Service · AKS · Container Apps · Blob Storage |
+| **RunPod** | Serverless GPU pods · Fine-tuning runs · Custom Docker templates |
+| **Linux (Ubuntu/Debian)** | CUDA setup · GPU driver config · systemd services · tmux/screen sessions |
+| **vLLM on Linux** | High-throughput serving — PagedAttention · continuous batching · OpenAI-compatible API |
+| **Bare-Metal / On-Premise** | Private GPU clusters · CUDA optimization · multi-GPU tensor parallelism |
+| **Private Cloud / Air-Gapped** | Fully offline LLM deployments for enterprise — zero data egress |
+| **Docker & Kubernetes** | Containerized agent microservices · K8s autoscaling for inference workloads |
+| **Edge Deployment** | Quantized GGUF/AWQ models on edge hardware via llama.cpp |
 
 ---
 
-## 🚀 &nbsp;Projects
+## Projects
 
 ### Original Work
 
@@ -211,18 +211,18 @@
 
 ---
 
-## ⚡ &nbsp;Capabilities at a Glance
+## Capabilities at a Glance
 
 <div align="center">
 
-| 🤖 Agentic AI | 🔍 RAG Systems | 🧬 LLM Engineering |
+| Agentic AI | RAG Systems | LLM Engineering |
 |:---:|:---:|:---:|
 | Multi-Agent Architecture | LightRAG · GraphRAG · Agentic RAG | LoRA / QLoRA Fine-Tuning |
 | Agent Harness & Orchestration | Industry-Scale Hybrid Search | GGUF · AWQ · GPTQ Quantization |
 | LangGraph Stateful Workflows | Multi-modal Document Extraction | vLLM High-Throughput Serving |
 | LLM Middleware & Flow Control | Per-User Doc Access Control | Any Open or Proprietary Model |
 
-| 🎙️ Voice & Vision | ☁️ Deployment | 🔒 Security & Control |
+| Voice & Vision | Deployment | Security & Control |
 |:---:|:---:|:---:|
 | Whisper + Speaker Diarization | AWS · Azure · RunPod | LLM Middleware Layer |
 | Voice Emotion & Sentiment | Linux + vLLM GPU Servers | Guardrail Override Logic |
@@ -233,7 +233,7 @@
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -251,7 +251,7 @@
 
 ---
 
-## 🏆 &nbsp;Trophies
+## Trophies
 
 <div align="center">
 
@@ -261,7 +261,7 @@
 
 ---
 
-## 📈 &nbsp;Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -271,11 +271,11 @@
 
 ---
 
-## 🐍 &nbsp;Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
-> ⚙️ *The snake animates after the GitHub Action runs once — see `.github/workflows/snake.yml`*
+> *The snake animates after the GitHub Action runs once — see `.github/workflows/snake.yml`*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhirajsingh1234/abhirajsingh1234/output/github-contribution-grid-snake-dark.svg">
@@ -287,7 +287,7 @@
 
 ---
 
-## 🌐 &nbsp;Connect
+## Connect
 
 <div align="center">
 
