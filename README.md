@@ -56,6 +56,7 @@
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
+![DeepAgents](https://img.shields.io/badge/DeepAgents-0052CC?style=for-the-badge&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-2B7BB9?style=for-the-badge&logoColor=white)
 
 **Model Providers & Ecosystems**
@@ -67,7 +68,7 @@
 **Inference, Hosting & Cloud**
 
 ![vLLM](https://img.shields.io/badge/vLLM-7928CA?style=for-the-badge&logoColor=white)
-![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge&logoColor=white)
+![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge&logo=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -152,7 +153,7 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 | Project | Description | Stack |
 |:---:|:---|:---:|
 | [**Custom LightRAG**](https://github.com/abhirajsingh1234/LightRAG) | Core architectural fork introducing Multi-Workspace isolation and Role-Based Access Control for strict document privacy and improved knowledge graph accuracy. | `Python` `GraphRAG` `vLLM` |
-| [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns—task planning, virtual filesystems, sub-agent delegation, and autonomous research workflows built from scratch. | `LangGraph` `LangChain` `Python` |
+| [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns—task planning, virtual filesystems, sub-agent delegation, and autonomous research workflows built from scratch. | `LangGraph` `LangChain` `DeepAgents` |
 | [**SmolAgents RAG Assistant**](https://github.com/abhirajsingh1234/SmolAgents_RAG_AI_Assistant) | Autonomous tool-selection agent solving multi-domain problems, giving the AI full control over retrieval strategies. | `SmolAgents` `RAG` |
 
 ---
