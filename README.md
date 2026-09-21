@@ -32,7 +32,7 @@
 
 <img align="right" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsingh1234&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
 
-- **Abhirajsingh Rajpurohit** — AI/ML Engineer & LLM Architect
+- **Abhirajsingh Rajpurohit** — Agentic AI/ML Engineer & LLM Architect
 - India
 - *explore · learn · innovate*
 - Production-grade Agentic AI systems specialist
