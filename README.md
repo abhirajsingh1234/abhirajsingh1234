@@ -14,13 +14,13 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhirajsingh1234&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=abhirajsingh1234&color=58a6ff&style=for-the-badge&label=Profile+Views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/abhirajsingh1234?label=Followers&style=flat-square&color=58a6ff&cacheSeconds=3600)](https://github.com/abhirajsingh1234?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/abhirajsingh1234?label=Followers&style=for-the-badge&color=58a6ff&cacheSeconds=3600)](https://github.com/abhirajsingh1234?tab=followers)
 &nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/abhirajsingh1234?affiliations=OWNER&label=Stars&style=flat-square&color=58a6ff&cacheSeconds=3600)](https://github.com/abhirajsingh1234)
+[![GitHub User's stars](https://img.shields.io/github/stars/abhirajsingh1234?affiliations=OWNER&label=Stars&style=for-the-badge&color=58a6ff&cacheSeconds=3600)](https://github.com/abhirajsingh1234)
 &nbsp;
-[![Repos Badge](https://img.shields.io/badge/Public%20Repos-53-58a6ff?style=flat-square)](https://github.com/abhirajsingh1234?tab=repositories)
+[![Repos Badge](https://img.shields.io/badge/Public%20Repos-53-58a6ff?style=for-the-badge)](https://github.com/abhirajsingh1234?tab=repositories)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <img align="right" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsingh1234&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
 
-- **Abhirajsingh Rajpurohit** — Agentic AI/ML Engineer & LLM Architect
+- **Abhirajsingh Rajpurohit** — AI/ML Engineer & LLM Architect
 - India
 - *explore · learn · innovate*
 - Production-grade Agentic AI systems specialist
@@ -48,52 +48,52 @@
 
 **Core Language & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Agentic & LLM Frameworks**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-2B7BB9?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-7928CA?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-2B7BB9?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-7928CA?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **ML / DL / Vision / Voice**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8%2Fv11-00FFAB?style=flat-square&logoColor=black)
-![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white)
-![Pyannote](https://img.shields.io/badge/Pyannote-E91E63?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8%2Fv11-00FFAB?style=for-the-badge&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pyannote](https://img.shields.io/badge/Pyannote-E91E63?style=for-the-badge&logoColor=white)
 
 **Serving & Cloud**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge&logoColor=white)
 
 **Vector Stores & Databases**
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF5733?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-00B388?style=flat-square&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0075A8?style=flat-square&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-FFCE00?style=flat-square&logoColor=black)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-0D1117?style=for-the-badge&logo=milvus&logoColor=0B95E7)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF5733?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0075A8?style=for-the-badge&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FFCE00?style=for-the-badge&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -129,6 +129,15 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 
 ---
 
+## Education & Certifications
+
+### Education
+
+- **MCA Data Science** | Amity University Online | 2024 - 2026
+- **B.Sc. Information Technology** | Mumbai University | 2021 - 2024
+
+---
+
 ## Projects
 
 ### Highlighted Project: Under Development
@@ -144,6 +153,14 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 | [**Custom LightRAG**](https://github.com/abhirajsingh1234/LightRAG) | Core architectural fork introducing Multi-Workspace isolation and Role-Based Access Control for strict document privacy and improved knowledge graph accuracy. | `Python` `GraphRAG` `vLLM` |
 | [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns—task planning, virtual filesystems, sub-agent delegation, and autonomous research workflows built from scratch. | `LangGraph` `Python` |
 | [**SmolAgents RAG Assistant**](https://github.com/abhirajsingh1234/SmolAgents_RAG_AI_Assistant) | Autonomous tool-selection agent solving multi-domain problems, giving the AI full control over retrieval strategies. | `SmolAgents` `RAG` |
+
+---
+
+## Hobbies & Interests
+
+- **Storytelling Games** | Exploring immersive worlds with rich narratives
+- **Anime** | Fan of compelling stories and unique animation styles
+- **Analytical Thinking** | Deeply analyzing every angle to anticipate and thoroughly understand all possible scenarios
 
 ---
 
