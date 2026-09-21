@@ -1,0 +1,40 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#1a1f6e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#a371f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF6B35;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+  <ellipse cx="820" cy="40" rx="180" ry="90" fill="#1f2a8a" opacity="0.35"/>
+  <ellipse cx="760" cy="170" rx="220" ry="70" fill="#2d1b6e" opacity="0.25"/>
+  <rect x="0" y="196" width="900" height="4" fill="url(#accent)" rx="2"/>
+  <text x="450" y="90"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="38" font-weight="700" fill="#ffffff"
+    text-anchor="middle" filter="url(#glow)" letter-spacing="1"
+  >Abhirajsingh Rajpurohit</text>
+  <text x="450" y="130"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="16" font-weight="400" fill="#58a6ff"
+    text-anchor="middle" letter-spacing="0.5"
+  >AI Solution Architect  |  LLM Systems Engineer  |  Agentic AI Specialist</text>
+  <text x="450" y="162"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="13" fill="#8b949e"
+    text-anchor="middle" letter-spacing="3"
+  >explore . learn . innovate</text>
+</svg>
