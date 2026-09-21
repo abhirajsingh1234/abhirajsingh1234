@@ -97,117 +97,53 @@
 
 ---
 
-## Model Knowledge
+## Model Knowledge & Capabilities
 
-### Open Source Models
-
-| Category | Models |
-|:---|:---|
-| **General LLMs** | Mistral 7B/8x7B · LLaMA 3 (8B/70B) · Phi-3/3.5 · Qwen 2.5 · Gemma 2 · Falcon |
-| **Code Models** | DeepSeek-Coder · CodeLlama · StarCoder2 · Qwen2.5-Coder |
-| **Vision / Multimodal** | LLaVA · InternVL · Qwen2-VL · MiniCPM-V · Moondream |
-| **Speech / Voice** | Whisper large-v3 · Faster-Whisper · WhisperX · Pyannote · SpeechBrain · NeMo |
-| **Embedding Models** | BGE-M3 · E5-Mistral · Nomic-Embed · mxbai-embed-large |
-| **Reranker Models** | BGE-Reranker-v2 · cross-encoder/ms-marco · Cohere Rerank |
-| **Proprietary APIs** | GPT-4o · Claude 3.5/3.7 · Gemini 1.5 Pro · Command R+ |
-
-### Fine-Tuning & Optimization
-
-| Technique | Detail |
-|:---|:---|
-| **LoRA / QLoRA** | Parameter-efficient fine-tuning for domain adaptation on consumer/cloud GPUs |
-| **Full Fine-Tune** | End-to-end training on curated domain-specific datasets |
-| **GGUF** | llama.cpp quantization — 2/3/4/5/8-bit, runs on CPU + edge hardware |
-| **AWQ** | Activation-aware weight quantization — fast GPU inference with minimal quality loss |
-| **GPTQ** | Post-training quantization — optimized for batch GPU serving |
-| **BitsAndBytes** | 4-bit/8-bit on-the-fly quantization for HuggingFace models |
-| **vLLM Serving** | PagedAttention + continuous batching — high-throughput inference on Linux GPU servers |
+**Capabilities Overview**
+- **Text & General LLMs:** Proficient in adapting, prompting, and optimizing both open-source and proprietary large language models for complex reasoning, autonomous agent tasks, and structural generation.
+- **Vision & Multimodal (VLM):** Capable of utilizing and implementing vision language models for image understanding, document extraction, and cross-modal reasoning.
+- **Speech & Voice:** Experienced in building robust audio processing pipelines, including high-accuracy Speech-to-Text (STT), transcription formatting, and speaker diarization.
+- **Embeddings & Reranking:** Deep understanding of dense vector representations and cross-encoder reranking models to maximize the accuracy of hybrid search systems.
+- **Model Fine-Tuning:** Experienced in optimizing and adapting language models to specific domains using Parameter-Efficient Fine-Tuning techniques, specifically LoRA (Low-Rank Adaptation).
 
 ---
 
 ## RAG & Agentic Systems
 
-### RAG Architectures I Build
+**From Foundational Retrieval to Agentic Architectures**
+I have comprehensive experience building retrieval systems, scaling from basic semantic search up to highly advanced Agentic RAG architectures. My expertise encompasses designing autonomous systems where LLMs dynamically govern the retrieval process—deciding when to fetch data, how to reframe queries, and how to self-grade responses. I specialize in complex architectures including Corrective RAG (CRAG), Self-RAG, and GraphRAG.
 
-| Type | What It Does |
-|:---|:---|
-| **Naive RAG** | Chunk → Embed → Retrieve → Generate |
-| **Advanced RAG** | Query rewriting · re-ranking · hybrid search · parent-child chunking |
-| **Agentic RAG** | LLM autonomously decides when, what and how to retrieve |
-| **Corrective RAG (CRAG)** | Self-grades retrieved docs — falls back to web search if irrelevant |
-| **Self-RAG** | LLM reflects on its own outputs and iteratively improves retrieval |
-| **GraphRAG** | Knowledge graph retrieval — entity relationships & community summaries |
-| **LightRAG** | Graph + vector hybrid — dual-level local & global context retrieval |
-| **HyDE** | Hypothetical Document Embeddings for zero-shot dense retrieval |
-| **Multi-hop RAG** | Chained retrievals for complex multi-step reasoning |
-
-<br/>
-
-### LightRAG — Custom Multi-Workspace Fork
-
-> Forked from **[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)** — Graph + Vector hybrid RAG (⭐ 30k+)
-
-**What I customized on top of the original:**
-
-- **User-wise document access control** — per-user document namespacing with permission layer so each user only sees their own documents
-- **Multi-workspace environment** — isolated tenant workspaces with their own knowledge graphs, sharing no context across boundaries
-- **Custom ingestion pipelines** — PDF, DOCX, scanned docs, tables & images all flowing into LightRAG's insert engine
-- **vLLM backend** — replaced default LLM endpoint with vLLM for faster, batched, high-throughput inference on Linux GPU servers
-
-[![My LightRAG Fork](https://img.shields.io/badge/My_Fork-LightRAG_Multi--Workspace-58a6ff?style=flat-square)](https://github.com/abhirajsingh1234/LightRAG)
-[![Original](https://img.shields.io/badge/Original-HKUDS%2FLightRAG-gray?style=flat-square&logo=github)](https://github.com/HKUDS/LightRAG)
-
-<br/>
-
-### Agent Architectures
-
-| Pattern | What I Build |
-|:---|:---|
-| **Agent Harness** | Custom agent loops, tool registries, routing & decision engines |
-| **Multi-Agent Supervisor/Worker** | Hierarchical delegation — supervisor spawns & coordinates sub-agents |
-| **Swarm Architecture** | Peer agents collaborating with shared memory and handoffs |
-| **Reflection Agents** | Self-critique loops — plan → act → observe → reflect → retry |
-| **Tool-Calling Agents** | Autonomous tool selection via SmolAgents, DeepAgents, LangGraph |
-| **LangGraph Workflows** | Stateful cyclic graphs — conditional edges, parallel branches, memory checkpoints |
-| **LLM Middleware** | Pre/post hooks to intercept, validate & override LLM I/O at pipeline level |
-| **Guardrail Override** | Custom fallback when safety layers fail — full controlled flow maintained |
+**LightRAG Enhancements**
+To meet strict enterprise requirements, I heavily modified the core architecture of LightRAG:
+- **Multi-Workspace Environment:** Engineered a tenant-isolation framework creating distinct workspaces. This strictly separates knowledge graphs across instances, preventing data crossover and drastically improving contextual accuracy.
+- **Role-Based Document Privacy:** Developed a robust document access control and role management layer, ensuring user privacy and enforcing strict authorization rules for ingested documents.
 
 ---
 
-## Deployment Knowledge
+## Deployment & Cloud Infrastructure
 
-| Platform | Capability |
-|:---|:---|
-| **AWS** | SageMaker · EC2 GPU instances · Bedrock · Lambda + API Gateway · S3 |
-| **Azure** | Azure ML · Azure OpenAI Service · AKS · Container Apps · Blob Storage |
-| **RunPod** | Serverless GPU pods · Fine-tuning runs · Custom Docker templates |
-| **Linux (Ubuntu/Debian)** | CUDA setup · GPU driver config · systemd services · tmux/screen sessions |
-| **vLLM on Linux** | High-throughput serving — PagedAttention · continuous batching · OpenAI-compatible API |
-| **Bare-Metal / On-Premise** | Private GPU clusters · CUDA optimization · multi-GPU tensor parallelism |
-| **Private Cloud / Air-Gapped** | Fully offline LLM deployments for enterprise — zero data egress |
-| **Docker & Kubernetes** | Containerized agent microservices · K8s autoscaling for inference workloads |
-| **Edge Deployment** | Quantized GGUF/AWQ models on edge hardware via llama.cpp |
+- **Cloud Native Deployments:** Highly comfortable utilizing and deploying LLM applications across AWS and Azure ecosystems, leveraging both managed cloud AI services and scalable compute instances.
+- **Linux Operations:** Proficient in configuring and managing AI deployments natively on Linux environments.
+- **Model Serving Engines:** Capable of running open-source models using standard Transformers libraries as well as deploying vLLM for high-throughput, continuous-batching production workloads.
+- **Flexible Infrastructure:** Experienced across the deployment spectrum, from serverless GPU platforms (like RunPod) to localized bare-metal servers.
 
 ---
 
 ## Projects
 
-### Original Work
+### Highlighted Project: Under Development
+
+**[Tracepass](https://github.com/Edge-Explorer/Tracepass)**
+> *Status: Active Development*
+> I am currently leading the development of Tracepass under the Edge-Explorer organization. Check the repository's README for the latest technical specifications, architecture updates, and upcoming features as the project evolves.
+
+### Notable Work
 
 | Project | Description | Stack |
 |:---:|:---|:---:|
-| [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns — task planning, virtual filesystems, sub-agent delegation & full autonomous research workflows from scratch | `LangGraph` `Python` |
-| [**SmolAgents RAG Assistant**](https://github.com/abhirajsingh1234/SmolAgents_RAG_AI_Assistant) | Autonomous tool-selection agent solving multi-domain problems — agent decides what to retrieve and how | `SmolAgents` `RAG` |
-| [**WhatsApp Chat Analyzer**](https://github.com/abhirajsingh1234/whatsapp_chat_analyzing-application) | NLP-powered analysis — sentiment, activity patterns, timeline & topic visualization from WhatsApp exports | `Python` `NLP` |
-| [**ID Card Generator**](https://github.com/abhirajsingh1234/id_card_generator-) | AI-driven ID card generation with smart validation, field extraction & batch processing | `Python` `AI` |
-| [**Superstore Dashboard**](https://github.com/abhirajsingh1234/superstore_data_dashboard) | Interactive BI dashboard — filters, KPIs and segment-level analytics | `Data Viz` |
-| [**CHAKRAVYUH**](https://github.com/abhirajsingh1234/CHAKRAVYUH) | Creative interactive project | `JavaScript` |
-
-### Notable Fork — Customized at Core
-
-| Fork | Original | My Additions |
-|:---:|:---:|:---|
-| [**LightRAG**](https://github.com/abhirajsingh1234/LightRAG) | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | User-wise access control · Multi-workspace isolation · vLLM backend · Custom doc ingestion |
+| [**Custom LightRAG**](https://github.com/abhirajsingh1234/LightRAG) | Core architectural fork introducing Multi-Workspace isolation and Role-Based Access Control for strict document privacy and improved knowledge graph accuracy. | `Python` `GraphRAG` `vLLM` |
+| [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns—task planning, virtual filesystems, sub-agent delegation, and autonomous research workflows built from scratch. | `LangGraph` `Python` |
+| [**SmolAgents RAG Assistant**](https://github.com/abhirajsingh1234/SmolAgents_RAG_AI_Assistant) | Autonomous tool-selection agent solving multi-domain problems, giving the AI full control over retrieval strategies. | `SmolAgents` `RAG` |
 
 ---
 
@@ -217,7 +153,7 @@
 
 | Agentic AI | RAG Systems | LLM Engineering |
 |:---:|:---:|:---:|
-| Multi-Agent Architecture | LightRAG · GraphRAG · Agentic RAG | LoRA / QLoRA Fine-Tuning |
+| Multi-Agent Architecture | LightRAG · GraphRAG · Agentic RAG | LoRA Fine-Tuning |
 | Agent Harness & Orchestration | Industry-Scale Hybrid Search | GGUF · AWQ · GPTQ Quantization |
 | LangGraph Stateful Workflows | Multi-modal Document Extraction | vLLM High-Throughput Serving |
 | LLM Middleware & Flow Control | Per-User Doc Access Control | Any Open or Proprietary Model |
