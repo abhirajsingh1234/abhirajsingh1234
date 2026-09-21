@@ -44,46 +44,34 @@
 
 ---
 
-## Tech Stack
+## Tech Stack & Architecture
 
-**Core Language & Tools**
+**Core Languages & OS**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Agentic & LLM Frameworks**
+**Agentic AI & Orchestration**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-2B7BB9?style=for-the-badge&logoColor=white)
+
+**Model Providers & Ecosystems**
+
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-7928CA?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-**ML / DL / Vision / Voice**
+**Inference, Hosting & Cloud**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8%2Fv11-00FFAB?style=for-the-badge&logoColor=black)
-![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pyannote](https://img.shields.io/badge/Pyannote-E91E63?style=for-the-badge&logoColor=white)
-
-**Serving & Cloud**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-7928CA?style=for-the-badge&logoColor=white)
+![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge&logoColor=white)
 
-**Vector Stores & Databases**
+**Vector Stores & Knowledge Graphs**
 
 ![Milvus](https://img.shields.io/badge/Milvus-0D1117?style=for-the-badge&logo=milvus&logoColor=0B95E7)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -94,6 +82,12 @@
 ![Weaviate](https://img.shields.io/badge/Weaviate-FFCE00?style=for-the-badge&logoColor=black)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**High-Level Concepts & Domains**
+
+![API Development](https://img.shields.io/badge/API_Development-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Voice_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -179,8 +173,8 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 |:---:|:---:|:---:|
 | Whisper + Speaker Diarization | AWS · Azure · RunPod | LLM Middleware Layer |
 | Voice Emotion & Sentiment | Linux + vLLM GPU Servers | Guardrail Override Logic |
-| YOLOv8/v11 Custom Training | Bare-Metal & Private Cloud | Prompt Injection Defense |
-| Multi-modal VLM Pipelines | Docker · Kubernetes · Edge | Full Pipeline Flow Control |
+| YOLO Custom Training | Bare-Metal & Private Cloud | Prompt Injection Defense |
+| Multi-modal VLM Pipelines | Docker · Edge | Full Pipeline Flow Control |
 
 </div>
 
