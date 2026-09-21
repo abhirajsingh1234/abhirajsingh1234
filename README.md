@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Abhirajsingh%20Rajpurohit&fontSize=45&fontColor=fff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Architect%20%E2%80%A2%20Agentic%20Systems%20Specialist&descAlignY=55&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Abhirajsingh%20Rajpurohit&fontSize=45&fontColor=fff&fontAlignY=36&desc=AI%20Solution%20Architect%20%E2%80%A2%20LLM%20%26%20Agentic%20Systems%20Specialist&descAlignY=55&descSize=17&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Industry-Scale+Multi-Agent+Systems;Agentic+RAG+%E2%80%A2+GraphRAG+%E2%80%A2+LightRAG+Expert;LLM+Fine-Tuning+%E2%80%A2+Quantization+%E2%80%A2+Open+Source+Models;Voice+AI+%E2%80%A2+Document+Intelligence+%E2%80%A2+YOLO;AWS+%E2%80%A2+Azure+%E2%80%A2+RunPod+%E2%80%A2+Linux+%E2%80%A2+Bare-Metal;LLM+Middleware+%E2%80%A2+Flow+Control+%E2%80%A2+Beyond+Guardrails;explore+·+learn+·+innovate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Solution+Architect+for+LangChain+%26+LangGraph;Building+Industry-Scale+Multi-Agent+Systems;Agentic+RAG+%E2%80%A2+GraphRAG+%E2%80%A2+LightRAG+Expert;LLM+Fine-Tuning+%E2%80%A2+Quantization+%E2%80%A2+Open+Source+Models;Voice+AI+%E2%80%A2+Document+Intelligence+%E2%80%A2+YOLO;AWS+%E2%80%A2+Azure+%E2%80%A2+RunPod+%E2%80%A2+Linux+%E2%80%A2+Bare-Metal;explore+·+learn+·+innovate" alt="Typing SVG" />
 
 </div>
 
@@ -32,13 +32,13 @@
 
 <img align="right" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsingh1234&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
 
-- **Abhirajsingh Rajpurohit** — AI/ML Engineer & LLM Architect
+- **Abhirajsingh Rajpurohit** — AI Solution Architect & LLM Systems Engineer
 - India
 - *explore · learn · innovate*
-- Production-grade Agentic AI systems specialist
-- Constantly exploring open-source LLMs & agent frameworks
-- Open to: Agentic AI · LLM Infra · RAG Systems · AI Research
-- Ask me about: LangChain · LangGraph · RAG · Fine-Tuning · Deployment
+- Specialist in LangChain, LangGraph, DeepAgents & enterprise Agentic AI architectures
+- Architecting production-grade autonomous agent loops and RAG pipelines
+- Open to: Solution Architecture · Agentic AI · LLM Infrastructure · RAG Systems
+- Ask me about: LangChain · LangGraph · DeepAgents · RAG · Fine-Tuning · Deployment
 
 <br clear="right"/>
 
@@ -52,7 +52,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Agentic AI & Orchestration**
+**Agentic AI & Solution Architecture**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
@@ -137,15 +137,22 @@ To meet strict enterprise requirements, I heavily modified the core architecture
 ### Highlighted Project: Under Development
 
 **[Tracepass](https://github.com/Edge-Explorer/Tracepass)**
-> *Status: Active Development*
-> I am currently leading the development of Tracepass under the Edge-Explorer organization. Check the repository's README for the latest technical specifications, architecture updates, and upcoming features as the project evolves.
+> *Status: Active Development (Edge-Explorer)*
+> **Autonomous Multi-Agent Web Scraping & Data Extraction Pipeline**
+> 
+> Solution-architected as an autonomous multi-agent system built with **LangChain**, **LangGraph**, and **DeepAgents** pattern principles to abstract web scraping into a natural language interface:
+> - **Multi-Agent Orchestration:** Designed an architecture featuring an Orchestrator Main Agent, Researcher Sub-Agent (for URL resolution & site structure mapping), and dynamic Code Generator agent.
+> - **Deep-Crawl State Machine:** Built a cyclic agentic loop using LangGraph `StateGraph` that inspects clean HTML tag trees, identifies target resources, and dynamically recurses deeper until data is located and extracted.
+> - **Sandboxed Dynamic Scraper Execution:** Generates tailored Scrapling code on the fly and executes it inside a restricted Python sandbox environment to prevent security risks.
+> - **Stealth Anti-Bot Operations:** Utilizes Scrapling with TLS/HTTP2 header mimicry, Camoufox, and stealth Playwright integration to bypass Cloudflare and CAPTCHA detection automatically.
+> - **Automated CI/CD Quality Gates:** Integrated automated PR analysis utilizing Gemini 2.5 Flash and CodeRabbit alongside strict `pytest` and `ruff` linting workflows.
 
 ### Notable Work
 
 | Project | Description | Stack |
 |:---:|:---|:---:|
 | [**Custom LightRAG**](https://github.com/abhirajsingh1234/LightRAG) | Core architectural fork introducing Multi-Workspace isolation and Role-Based Access Control for strict document privacy and improved knowledge graph accuracy. | `Python` `GraphRAG` `vLLM` |
-| [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns—task planning, virtual filesystems, sub-agent delegation, and autonomous research workflows built from scratch. | `LangGraph` `Python` |
+| [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns—task planning, virtual filesystems, sub-agent delegation, and autonomous research workflows built from scratch. | `LangGraph` `LangChain` `Python` |
 | [**SmolAgents RAG Assistant**](https://github.com/abhirajsingh1234/SmolAgents_RAG_AI_Assistant) | Autonomous tool-selection agent solving multi-domain problems, giving the AI full control over retrieval strategies. | `SmolAgents` `RAG` |
 
 ---
