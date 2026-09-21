@@ -2,7 +2,7 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 1 * * *'      # runs daily at 1 AM UTC (after metrics runs)
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
