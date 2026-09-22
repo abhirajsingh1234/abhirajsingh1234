@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6e,100:0d1117&height=220&section=header&text=Abhirajsingh%20Rajpurohit&fontSize=45&fontColor=fff&fontAlignY=38&desc=AI%20Solution%20Architect%20%E2%80%A2%20LLM%20%26%20Agentic%20Systems%20Specialist&descAlignY=56&descSize=17&animation=fadeIn)](https://github.com/abhirajsingh1234)
+<img src="assets/header.svg" width="100%" alt="Header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Solution+Architect+for+LangChain+%26+LangGraph;Building+Industry-Scale+Multi-Agent+Systems;Agentic+RAG+%E2%80%A2+GraphRAG+%E2%80%A2+LightRAG+Expert;LLM+Fine-Tuning+%E2%80%A2+Quantization+%E2%80%A2+Open+Source+Models;Voice+AI+%E2%80%A2+Document+Intelligence+%E2%80%A2+YOLO;AWS+%E2%80%A2+Azure+%E2%80%A2+RunPod+%E2%80%A2+Linux+%E2%80%A2+Bare-Metal;explore+%C2%B7+learn+%C2%B7+innovate)](https://git.io/typing-svg)
 
