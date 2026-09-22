@@ -13,7 +13,7 @@
  
 **Abhirajsingh Rajpurohit** · AI Solution Architect & LLM Systems Engineer, India
  
-Specialist in LangChain, LangGraph, and enterprise Agentic AI — designing production-grade autonomous agent loops, multi-tenant RAG platforms, and high-throughput LLM inference pipelines. Focused on architectures that scale: from foundational semantic search through Corrective RAG, Self-RAG, and GraphRAG, all the way to fully autonomous agentic retrieval.
+Specialist in LangChain, LangGraph, and enterprise Agentic AI — designing production-grade autonomous agent loops, multi-tenant RAG platforms, and high-throughput LLM inference pipelines. Focused on architectures that scale: fully autonomous agentic retrieval and multi agent architecture.
  
 > Open to: **Solution Architecture · Agentic AI · LLM Infrastructure · RAG Systems**
  
