@@ -102,7 +102,7 @@ Built with LangChain, LangGraph, and DeepAgents principles — an orchestrator�
 |---|---|---|
 | [**Custom LightRAG**](https://github.com/abhirajsingh1234/LightRAG) | Architectural fork — Multi-Workspace isolation + Role-Based Access Control | `Python` `GraphRAG` `vLLM` |
 | [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns — task planning, virtual filesystems, sub-agent delegation | `LangGraph` `LangChain` |
-| [**SmolAgents RAG Assistant**](https://github.com/abhirajsingh1234/SmolAgents_RAG_AI_Assistant) | Autonomous tool-selection agent with dynamic retrieval strategy control | `SmolAgents` `RAG` |
+| [**Super Admin Table Control**](https://github.com/abhirajsingh1234/Super-Admin-Table-Control) | Comprehensive admin interface with advanced table controls and data management capabilities | `Frontend` `Backend` |
  
 ---
  
@@ -163,9 +163,10 @@ Built with LangChain, LangGraph, and DeepAgents principles — an orchestrator�
 ---
  
 ## Connect
- 
+
 [![GitHub](https://img.shields.io/badge/GitHub-abhirajsingh1234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhirajsingh1234)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirajsingh1234)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiraj-singh-rajpurohit-9647b427b/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-AbhirajSinghRajpurohit-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AbhirajSinghRajpurohit)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajpurohitabhirajsingh@gmail.com)
  
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6e,100:0d1117&height=120&section=footer&text=explore%20%C2%B7%20learn%20%C2%B7%20innovate&fontSize=16&fontColor=ffffff&fontAlignY=68&animation=fadeIn)](https://github.com/abhirajsingh1234)
