@@ -146,14 +146,9 @@ Built with LangChain, LangGraph, and DeepAgents principles â€” an orchestratorâ†
 ---
  
 ## Contribution Activity
- 
+
 [![GitHub Metrics](https://raw.githubusercontent.com/abhirajsingh1234/abhirajsingh1234/main/github-metrics.svg)](https://github.com/abhirajsingh1234)
- 
-## 365-Day Contribution Calendar
- 
-<p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/abhirajsingh1234" alt="Abhirajsingh's GitHub Contribution Chart" width="100%" />
-</p>
+
 ---
  
 ## Hobbies & Interests
