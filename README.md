@@ -100,8 +100,9 @@ Built with LangChain, LangGraph, and DeepAgents principles — an orchestrator�
  
 | Project | Description | Stack |
 |---|---|---|
-| [**Custom LightRAG**](https://github.com/abhirajsingh1234/LightRAG) | Architectural fork — Multi-Workspace isolation + Role-Based Access Control | `Python` `GraphRAG` `vLLM` |
-| [**Deep-Agents**](https://github.com/abhirajsingh1234/Deep-Agents) | Advanced agent patterns — task planning, virtual filesystems, sub-agent delegation | `LangGraph` `LangChain` |
+| [**Custom LightRAG**](https://github.com/abhirajsingh1234/LightRAG_Customized) | Architectural fork for Agentic RAG — Multi-Workspace isolation + Role-Based Access Control | `GraphRAG` `vLLM` |
+| [**Sub-Window AI API**](https://github.com/abhirajsingh1234/sub-window-ai-api) | Multi-Agent Architecture — orchestration system for AI contexts and agent workflows | `LangGraph` `Python` |
+| [**YOLO Model Card Detection**](https://github.com/abhirajsingh1234/Yolo-Model-Card-Detection) | Custom Model Training — YOLO-based computer vision pipeline for object detection | `YOLO` `Vision` |
 | [**Super Admin Table Control**](https://github.com/abhirajsingh1234/Super-Admin-Table-Control) | Comprehensive admin interface with advanced table controls and data management capabilities | `Frontend` `Backend` |
  
 ---
