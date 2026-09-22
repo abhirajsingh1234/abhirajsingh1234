@@ -6,6 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/abhirajsingh1234?label=Followers&style=for-the-badge&color=58a6ff&cacheSeconds=3600)](https://github.com/abhirajsingh1234?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/abhirajsingh1234?affiliations=OWNER&label=Stars&style=for-the-badge&color=58a6ff&cacheSeconds=3600)](https://github.com/abhirajsingh1234)
 [![Repos Badge](https://img.shields.io/badge/Public%20Repos-53-58a6ff?style=for-the-badge)](https://github.com/abhirajsingh1234?tab=repositories)
+[![Open Source Love](https://img.shields.io/badge/Open_Source-Contributions_Welcome-58a6ff?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/abhirajsingh1234)
  
 ---
  
@@ -15,7 +16,7 @@
  
 Specialist in LangChain, LangGraph, and enterprise Agentic AI — designing production-grade autonomous agent loops, multi-tenant RAG platforms, and high-throughput LLM inference pipelines. Focused on architectures that scale: fully autonomous agentic retrieval and multi agent architecture.
  
-> Open to: **Solution Architecture · Agentic AI · LLM Infrastructure · RAG Systems**
+> Open to: **Solution Architecture · Agentic AI · LLM Infrastructure · RAG Systems · Open Source Contributions**
  
 ---
  
@@ -69,6 +70,7 @@ Production experience building retrieval architectures from basic semantic searc
 **LightRAG Platform Enhancements**
 - **Multi-Workspace Isolation** — Tenant-isolation framework with strictly separated knowledge graphs, preventing data crossover and improving contextual accuracy at scale.
 - **Role-Based Document Privacy** — Access control and role management layer enforcing strict authorization rules over ingested documents.
+
 ### Model Capabilities
  
 | Domain | Skills |
@@ -82,9 +84,12 @@ Production experience building retrieval architectures from basic semantic searc
 - **Cloud:** AWS · Azure (Bedrock, SageMaker, AKS) — production LLM application deployments
 - **Self-Hosted:** vLLM high-throughput inference, bare-metal GPU servers, RunPod serverless GPU
 - **Linux:** Native AI deployment configuration and management
+
 ---
  
 ## Projects
+
+I am actively open to open-source collaborations and contributions. Feel free to open an issue or PR on any of my active repositories!
  
 ### 🔬 Featured: [Tracepass](https://github.com/Edge-Explorer/Tracepass) *(Active Development)*
 **Autonomous Multi-Agent Web Scraping & Data Extraction Pipeline**
@@ -164,4 +169,3 @@ Built with LangChain, LangGraph, and DeepAgents principles — an orchestrator�
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
  
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6e,100:0d1117&height=120&section=footer&text=explore%20%C2%B7%20learn%20%C2%B7%20innovate&fontSize=16&fontColor=ffffff&fontAlignY=68&animation=fadeIn)](https://github.com/abhirajsingh1234)
- 
