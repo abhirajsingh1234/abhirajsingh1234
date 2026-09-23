@@ -136,10 +136,7 @@ Built with LangChain, LangGraph, and DeepAgents principles â€” an orchestratorâ†
  
 ## GitHub Stats
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhirajsingh1234&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsingh1234&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" height="165"/>
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhirajsingh1234&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=FF6B35&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 </p>
