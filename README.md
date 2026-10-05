@@ -137,6 +137,25 @@ Built with LangChain, LangGraph, and DeepAgents principles — an orchestrator�
 ## GitHub Stats
 
 <!-- START_STATS -->
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhirajsingh1234/abhirajsingh1234/main/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+
+<br/>
+
+| Metric | Value |
+|--------|-------|
+| **Total Repositories** | 59 Public |
+| **Total Stars** | ⭐ 3 |
+| **Total Forks** | 🍴 1 |
+| **Followers** | 👥 3 |
+| **Following** | 👤 5 |
+| **Last Updated** | October 05, 2026 at 06:24 AM UTC |
+
+</div>
+
 <!-- END_STATS -->
 
 <p align="center">
