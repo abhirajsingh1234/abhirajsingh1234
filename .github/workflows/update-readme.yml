@@ -16,6 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main                        # ← force main branch always
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,9 +26,14 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Debug README
+        run: |
+          echo "README size: $(wc -c < README.md) bytes"
+          grep -n "START_STATS\|END_STATS" README.md || echo "❌ Markers missing from file on disk"
+
       - name: Run README updater
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_STATS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: abhirajsingh1234
         run: python update_readme.py
 
