@@ -112,7 +112,7 @@ def update_readme(username: str, token: str) -> bool:
 
 if __name__ == "__main__":
     username = os.getenv("GITHUB_USERNAME", "abhirajsingh1234")
-    token = os.getenv("GITHUB_TOKEN")
+    token = os.getenv("GH_STATS_TOKEN") or os.getenv("GITHUB_TOKEN")
 
     if not token:
         print("❌ GITHUB_TOKEN env var not set")
